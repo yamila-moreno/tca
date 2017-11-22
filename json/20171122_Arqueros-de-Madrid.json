@@ -172,11 +172,11 @@
       "size": 0
     }
   ],
-  "eventname": "Arqueros de Madrid - Arqueros de Madrid",
-  "eventinsstmp": 1509530647084,
+  "eventname": "2017 11 22 - Arqueros de Madrid",
+  "eventinsstmp": 1511363671244,
   "eventtype": "N",
   "eventobjectId": null,
-  "eventdate": "2017-11-01",
+  "eventdate": "2017-11-22",
   "eventtournamentid": null,
   "eventtournamentroundid": null,
   "eventtournamentgroupid": null,
@@ -216,17 +216,17 @@
         {
           "objectId": null,
           "arrownr": 2,
-          "kill": 0,
+          "kill": 4,
           "targetid": 2,
-          "points": 0,
+          "points": 5,
           "resulttype": "N"
         },
         {
           "objectId": null,
           "arrownr": 1,
-          "kill": 4,
+          "kill": 3,
           "targetid": 3,
-          "points": 5,
+          "points": 8,
           "resulttype": "N"
         },
         {
@@ -256,272 +256,16 @@
         {
           "objectId": null,
           "arrownr": 1,
-          "kill": 4,
+          "kill": 0,
           "targetid": 5,
-          "points": 5,
+          "points": 0,
           "resulttype": "N"
         },
         {
           "objectId": null,
           "arrownr": 2,
-          "kill": 4,
+          "kill": 0,
           "targetid": 5,
-          "points": 5,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 1,
-          "kill": 4,
-          "targetid": 6,
-          "points": 5,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 2,
-          "kill": 4,
-          "targetid": 6,
-          "points": 5,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 1,
-          "kill": 4,
-          "targetid": 7,
-          "points": 5,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 2,
-          "kill": 0,
-          "targetid": 7,
-          "points": 0,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 1,
-          "kill": 3,
-          "targetid": 8,
-          "points": 8,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 2,
-          "kill": 4,
-          "targetid": 8,
-          "points": 5,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 1,
-          "kill": 4,
-          "targetid": 9,
-          "points": 5,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 2,
-          "kill": 0,
-          "targetid": 9,
-          "points": 0,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 1,
-          "kill": 4,
-          "targetid": 10,
-          "points": 5,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 2,
-          "kill": 4,
-          "targetid": 10,
-          "points": 5,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 1,
-          "kill": 3,
-          "targetid": 11,
-          "points": 8,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 2,
-          "kill": 0,
-          "targetid": 11,
-          "points": 0,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 1,
-          "kill": 4,
-          "targetid": 12,
-          "points": 5,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 2,
-          "kill": 0,
-          "targetid": 12,
-          "points": 0,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 1,
-          "kill": 4,
-          "targetid": 13,
-          "points": 5,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 2,
-          "kill": 0,
-          "targetid": 13,
-          "points": 0,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 1,
-          "kill": 4,
-          "targetid": 14,
-          "points": 5,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 2,
-          "kill": 0,
-          "targetid": 14,
-          "points": 0,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 1,
-          "kill": 3,
-          "targetid": 15,
-          "points": 8,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 2,
-          "kill": 0,
-          "targetid": 15,
-          "points": 0,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 1,
-          "kill": 0,
-          "targetid": 16,
-          "points": 0,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 2,
-          "kill": 0,
-          "targetid": 16,
-          "points": 0,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 1,
-          "kill": 4,
-          "targetid": 17,
-          "points": 5,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 2,
-          "kill": 0,
-          "targetid": 17,
-          "points": 0,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 1,
-          "kill": 4,
-          "targetid": 18,
-          "points": 5,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 2,
-          "kill": 0,
-          "targetid": 18,
-          "points": 0,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 1,
-          "kill": 4,
-          "targetid": 19,
-          "points": 5,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 2,
-          "kill": 0,
-          "targetid": 19,
-          "points": 0,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 1,
-          "kill": 3,
-          "targetid": 20,
-          "points": 8,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 2,
-          "kill": 3,
-          "targetid": 20,
-          "points": 8,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 1,
-          "kill": 4,
-          "targetid": 21,
-          "points": 5,
-          "resulttype": "N"
-        },
-        {
-          "objectId": null,
-          "arrownr": 2,
-          "kill": 0,
-          "targetid": 21,
           "points": 0,
           "resulttype": "N"
         },
@@ -529,23 +273,23 @@
           "objectId": null,
           "arrownr": 1,
           "kill": 2,
-          "targetid": 22,
+          "targetid": 6,
           "points": 10,
           "resulttype": "N"
         },
         {
           "objectId": null,
           "arrownr": 2,
-          "kill": 4,
-          "targetid": 22,
-          "points": 5,
+          "kill": 0,
+          "targetid": 6,
+          "points": 0,
           "resulttype": "N"
         },
         {
           "objectId": null,
           "arrownr": 1,
           "kill": 3,
-          "targetid": 23,
+          "targetid": 7,
           "points": 8,
           "resulttype": "N"
         },
@@ -553,16 +297,272 @@
           "objectId": null,
           "arrownr": 2,
           "kill": 4,
-          "targetid": 23,
+          "targetid": 7,
           "points": 5,
           "resulttype": "N"
         },
         {
           "objectId": null,
           "arrownr": 1,
+          "kill": 3,
+          "targetid": 8,
+          "points": 8,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 2,
           "kill": 0,
-          "targetid": 24,
+          "targetid": 8,
           "points": 0,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 1,
+          "kill": 2,
+          "targetid": 9,
+          "points": 10,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 2,
+          "kill": 3,
+          "targetid": 9,
+          "points": 8,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 1,
+          "kill": 4,
+          "targetid": 10,
+          "points": 5,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 2,
+          "kill": 0,
+          "targetid": 10,
+          "points": 0,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 1,
+          "kill": 4,
+          "targetid": 11,
+          "points": 5,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 2,
+          "kill": 0,
+          "targetid": 11,
+          "points": 0,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 1,
+          "kill": 3,
+          "targetid": 12,
+          "points": 8,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 2,
+          "kill": 4,
+          "targetid": 12,
+          "points": 5,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 1,
+          "kill": 4,
+          "targetid": 13,
+          "points": 5,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 2,
+          "kill": 0,
+          "targetid": 13,
+          "points": 0,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 1,
+          "kill": 3,
+          "targetid": 14,
+          "points": 8,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 2,
+          "kill": 0,
+          "targetid": 14,
+          "points": 0,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 1,
+          "kill": 0,
+          "targetid": 15,
+          "points": 0,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 2,
+          "kill": 0,
+          "targetid": 15,
+          "points": 0,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 1,
+          "kill": 4,
+          "targetid": 16,
+          "points": 5,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 2,
+          "kill": 4,
+          "targetid": 16,
+          "points": 5,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 1,
+          "kill": 3,
+          "targetid": 17,
+          "points": 8,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 2,
+          "kill": 4,
+          "targetid": 17,
+          "points": 5,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 1,
+          "kill": 3,
+          "targetid": 18,
+          "points": 8,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 2,
+          "kill": 0,
+          "targetid": 18,
+          "points": 0,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 1,
+          "kill": 4,
+          "targetid": 19,
+          "points": 5,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 2,
+          "kill": 4,
+          "targetid": 19,
+          "points": 5,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 1,
+          "kill": 4,
+          "targetid": 20,
+          "points": 5,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 2,
+          "kill": 4,
+          "targetid": 20,
+          "points": 5,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 1,
+          "kill": 3,
+          "targetid": 21,
+          "points": 8,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 2,
+          "kill": 0,
+          "targetid": 21,
+          "points": 0,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 1,
+          "kill": 4,
+          "targetid": 22,
+          "points": 5,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 2,
+          "kill": 0,
+          "targetid": 22,
+          "points": 0,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 1,
+          "kill": 4,
+          "targetid": 23,
+          "points": 5,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 2,
+          "kill": 0,
+          "targetid": 23,
+          "points": 0,
+          "resulttype": "N"
+        },
+        {
+          "objectId": null,
+          "arrownr": 1,
+          "kill": 4,
+          "targetid": 24,
+          "points": 5,
           "resulttype": "N"
         },
         {
